@@ -1,0 +1,17 @@
+# Tool-X1
+Tool-X1
+apt-get update
+apt-get update
+clear
+apt-get install python
+apt-get install python2
+clear
+apt-get install git
+clear
+git clone https://github.com/basecoin272/Tool-X1/edit/main/README.md
+ls
+cd tool-x1
+ls
+chmod +x install.aex
+ls
+sh install.aex
